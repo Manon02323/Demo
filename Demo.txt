@@ -1,3 +1,1 @@
-Hello World !
-On voit ce texte uniquement sur la nouvelle branche
-Modif de l'exo exoBranche
+J'adore les ...
